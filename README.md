@@ -1,7 +1,7 @@
 # International-Small-Credit-Data-Analysis
 This project was part of my data analyst education, in order to get the Data Analyst Certificate
 
-The Analysis was coded in Python
+The Analysis was coded in Python, following the CRISP-DM data analysis approach.
 
 **Table of contents:**
 
